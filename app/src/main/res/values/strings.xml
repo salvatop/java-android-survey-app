@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">surveyApp</string>
+    <string name="statistics">Statistics</string>
+    <string name="save">Save</string>
+    <string name="bravo">Bravo</string>
+    <string name="acanac">Acanac</string>
+    <string name="videotron">Videotron</string>
+    <string name="bell">Bell</string>
+    <string name="providers">Providers:</string>
+    <string name="client_number">Client number:</string>
+    <string name="internet_provider_survey">Internet Provider Survey</string>
+    <string name="internetProvider">Provider %:</string>
+    <string name="nb_of_clients">Nb of Clients:</string>
+    <string name="statitistics">Statitistics</string>
+    <string name="show_providers">Provider:</string>
+    <string name="second_activity_return">Return</string>
+</resources>
