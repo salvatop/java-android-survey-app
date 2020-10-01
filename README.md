@@ -1,6 +1,6 @@
 # survey-app
 
-Simple Android app writtem in java that gather survay data about internet providers and show statstics. Use serialize to pass data as object between activities
+Simple Android app written in java that gather survey data about internet providers and show related statistics. It make use of serialize to pass data as objects between activities
 
 Features:
 
